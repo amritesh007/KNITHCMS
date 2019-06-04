@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_complaintBox"
+        android:icon="@mipmap/baseline_complaint_black_18dp"
+        android:title="@string/title_complaintBox" />
+
+    <item
+        android:id="@+id/navigation_ambulance"
+        android:icon="@mipmap/baseline_local_hospital_black_18dp"
+        android:title="@string/title_ambulance" />
+
+    <item
+        android:id="@+id/navigation_guestHouse"
+        android:icon="@mipmap/baseline_hotel_black_18dp"
+        android:title="@string/title_guestHouse" />
+
+</menu>
